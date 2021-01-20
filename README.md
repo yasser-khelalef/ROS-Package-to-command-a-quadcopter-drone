@@ -1,4 +1,5 @@
 # ROS-Package-to-command-a-quadcopter-drone
+THIS IS A ROS PACKAGE, TO USE IT YOU NEED TO CREATE YOUR OWN CATKIN WORKSPACE THEN CREATE YOUR OWN ROS PACKAGE AND TO IT THE PYTHON FILES IN THIS PACKAGE
 This code can be implemented on a real machine,as well serving simulation purposes
 
 To run it on a real machine you need an onboard computer ( Raspberry Pi ) and an autopilot like PIXHAWK with PX4 software and MavLink communication Protocol
